@@ -1,0 +1,10 @@
+C:\Users\Aluno-ETEC\source\repos\bigui\bigui\obj\Debug\bigui.csprojAssemblyReference.cache
+C:\Users\Aluno-ETEC\source\repos\bigui\bigui\obj\Debug\bigui.Form1.resources
+C:\Users\Aluno-ETEC\source\repos\bigui\bigui\obj\Debug\bigui.Properties.Resources.resources
+C:\Users\Aluno-ETEC\source\repos\bigui\bigui\obj\Debug\bigui.csproj.GenerateResource.cache
+C:\Users\Aluno-ETEC\source\repos\bigui\bigui\obj\Debug\bigui.csproj.CoreCompileInputs.cache
+C:\Users\Aluno-ETEC\source\repos\bigui\bigui\bin\Debug\bigui.exe.config
+C:\Users\Aluno-ETEC\source\repos\bigui\bigui\bin\Debug\bigui.exe
+C:\Users\Aluno-ETEC\source\repos\bigui\bigui\bin\Debug\bigui.pdb
+C:\Users\Aluno-ETEC\source\repos\bigui\bigui\obj\Debug\bigui.exe
+C:\Users\Aluno-ETEC\source\repos\bigui\bigui\obj\Debug\bigui.pdb
